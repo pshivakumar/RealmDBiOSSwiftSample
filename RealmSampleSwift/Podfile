@@ -1,0 +1,8 @@
+target "RealmSampleSwift" do
+pod 'Realm'
+end
+
+target "RealmSampleSwiftTests" do
+pod 'Realm/Headers'
+end
+
